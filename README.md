@@ -10,6 +10,12 @@ Kustomize plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
 asdf plugin-add kustomize https://github.com/Banno/asdf-kustomize.git
 ```
 
+## Test
+
+```
+asdf plugin-test kustomize https://github.com/Banno/asdf-kustomize.git kustomize version
+```
+
 ## Use
 
 Check out the [asdf](https://github.com/asdf-vm/asdf) readme for instructions on how to install and manage versions of Kustomize.
